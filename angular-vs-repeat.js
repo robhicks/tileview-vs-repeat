@@ -77,7 +77,7 @@
       return angular.element();
   };
 
-  angular.module('vs-repeat', []).directive('vsRepeat', ['$compile', '$timeout', 'safeApply', function($compile, $timeout, safeApply) {
+  angular.module('vs-repeat', []).directive('vsRepeat', ['$compile', '$timeout', function($compile, $timeout) {
     return {
       restrict: 'A',
       scope: true,
