@@ -1,0 +1,17 @@
+{
+  "name": "tileview-vs-repeat",
+  "description": "angular-vs-repeat",
+  "main": "angular-vs-repeat.js",
+  "authors": [
+    "Rob Hicks <rob@hixfamily.org>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/robhicks/tileview-vs-repeat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

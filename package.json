@@ -1,0 +1,19 @@
+{
+  "name": "tileview-vs-repeat",
+  "version": "1.0.0",
+  "description": "angular-vs-repeat",
+  "main": "angular-vs-repeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robhicks/tileview-vs-repeat.git"
+  },
+  "author": "Rob Hicks <rob@hixfamily.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robhicks/tileview-vs-repeat/issues"
+  },
+  "homepage": "https://github.com/robhicks/tileview-vs-repeat#readme"
+}
